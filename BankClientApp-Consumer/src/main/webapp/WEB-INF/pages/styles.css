@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.form-group {
+	
+	margin-bottom: 20px;
+}
